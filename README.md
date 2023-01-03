@@ -16,7 +16,7 @@ online quizzes. It supports a variety of operations.
 #### Register a user
 
 ```http
-  GET /api/register
+  POST /api/register
 ```
 
 | Body | Type     | Description                |
